@@ -1,0 +1,7 @@
+D:\Working Area\MagicSeven7\MyImageButton\bin\Debug\MyImageButton.dll
+D:\Working Area\MagicSeven7\MyImageButton\bin\Debug\MyImageButton.pdb
+D:\Working Area\MagicSeven7\MyImageButton\obj\Debug\MyImageButton.CustomsImageButton.resources
+D:\Working Area\MagicSeven7\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+D:\Working Area\MagicSeven7\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+D:\Working Area\MagicSeven7\MyImageButton\obj\Debug\MyImageButton.dll
+D:\Working Area\MagicSeven7\MyImageButton\obj\Debug\MyImageButton.pdb

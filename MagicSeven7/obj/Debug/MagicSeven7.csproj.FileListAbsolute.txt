@@ -1,0 +1,111 @@
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.exe
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.pdb
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\bin\Debug\MaterialSkin.dll
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucBody.resources
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.exe
+C:\Users\TAT SING\Desktop\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.pdb
+D:\Working Area\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+D:\Working Area\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.exe
+D:\Working Area\MagicSeven7\MagicSeven7\bin\Debug\MagicSeven7.pdb
+D:\Working Area\MagicSeven7\MagicSeven7\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Working Area\MagicSeven7\MagicSeven7\bin\Debug\MaterialSkin.dll
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.exe
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.pdb
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucUtilityBody.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Operation.ucOperationBody.resources
+D:\Working Area\MagicSeven7\MagicSeven7\obj\Debug\MagicSeven7.Accounting.ucAccounting.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.pdb
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MaterialSkin.dll
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Accounting.ucAccounting.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.ucOperationBody.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucUtilityBody.resources
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.pdb
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MagicSeven7.pdb
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\bin\Debug\MaterialSkin.dll
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Accounting.ucAccounting.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.ucOperationBody.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucUtilityBody.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 17-06-19\MagicSeven7\obj\Debug\MagicSeven7.pdb
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\bin\Debug\MagicSeven7.pdb
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\bin\Debug\MaterialSkin.dll
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Accounting.ucAccounting.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.ucOperationBody.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucUtilityBody.resources
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.exe
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.pdb
+C:\Users\TAT SING\Desktop\MagicSeven7- eugene - update 18-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.Transactions.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe.config
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\bin\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\bin\Debug\MagicSeven7.pdb
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\bin\Debug\MaterialSkin.dll
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Accounting.ucAccounting.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dashboard.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Dialog_Message_Box.mainDialogMessageBox.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.mainForm.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.Transactions.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Operation.ucOperationBody.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Properties.Resources.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.CreateAccount.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.Utility.ucUtilityBody.resources
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.csproj.CopyComplete
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.exe
+C:\Users\admin\Desktop\Magic 7 backup\MagicSeven7- eugene - update 25-06-19\MagicSeven7\obj\Debug\MagicSeven7.pdb
